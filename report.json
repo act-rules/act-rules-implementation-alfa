@@ -684,7 +684,19 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/article[1]/@lang"
       }
     },
     "earl:subject": {
@@ -2175,6 +2187,98 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/6c7e305140195228a939d3fac4c8904df7b01e80.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/6c7e305140195228a939d3fac4c8904df7b01e80.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/6c7e305140195228a939d3fac4c8904df7b01e80.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\tbody {\n\t\t\t\ttransform: rotate(90deg);\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<main>\n\t\t\tPage Content\n\t\t</main>\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/6c7e305140195228a939d3fac4c8904df7b01e80.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/46541a38e426f103ae93c357267f8247197fa4a9.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/46541a38e426f103ae93c357267f8247197fa4a9.html",
     "dct:hasPart": [
@@ -2579,8 +2683,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/3ea0c8/7c806fb730165065161574d240905e18d7cb950e.html",
-    "dct:source": "https://act-rules.github.io/testcases/3ea0c8/7c806fb730165065161574d240905e18d7cb950e.html",
+    "@id": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html",
+    "dct:source": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -2591,7 +2695,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/3ea0c8/7c806fb730165065161574d240905e18d7cb950e.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -2640,7 +2744,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div id=\"my-elt\"></div>\n<iframe srcdoc=\"<span id='my-elt'></span>\"></iframe>"
+          "cnt:chars": "<!DOCTYPE html> <div>This is my first element</div>"
         }
       }
     ]
@@ -2656,23 +2760,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/div[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/3ea0c8/7c806fb730165065161574d240905e18d7cb950e.html"
+      "@id": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html"
     }
   },
   {
@@ -3883,8 +3975,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html",
-    "dct:source": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html",
+    "@id": "https://act-rules.github.io/testcases/5c01ea/2fb32b36f61ae9823bdaf5f065881c022a177c4d.html",
+    "dct:source": "https://act-rules.github.io/testcases/5c01ea/2fb32b36f61ae9823bdaf5f065881c022a177c4d.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -3895,7 +3987,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/2fb32b36f61ae9823bdaf5f065881c022a177c4d.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -3944,7 +4036,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div role=\"button\" aria-sort=\"\" style=\"display:none;\"></div>"
+          "cnt:chars": "<!DOCTYPE html> <svg xmlns=\"http://www.w3.org/2000/svg\" role=\"graphics-object\" width=\"100\" height=\"100\" aria-label=\"yellow circle\">\n\t<circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"yellow\"></circle>\n</svg>"
         }
       }
     ]
@@ -3960,11 +4052,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/svg[1]/@aria-label"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html"
+      "@id": "https://act-rules.github.io/testcases/5c01ea/2fb32b36f61ae9823bdaf5f065881c022a177c4d.html"
     }
   },
   {
@@ -4575,6 +4679,98 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/44a2a695eb6b2ff6414feb4fd427bb2c644caff4.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/44a2a695eb6b2ff6414feb4fd427bb2c644caff4.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/44a2a695eb6b2ff6414feb4fd427bb2c644caff4.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\t@media (orientation: lanscape) {\n\t\t\t\tbody {\n\t\t\t\t\ttransform: rotateZ(0, 0, 1, 270deg);\n\t\t\t\t}\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body style=\"display:none;\">\n\t\t<main>\n\t\t\tPage Content\n\t\t</main>\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/44a2a695eb6b2ff6414feb4fd427bb2c644caff4.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/c349f9f0d343612aeaeefe3331048efef2a39dd2.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/c349f9f0d343612aeaeefe3331048efef2a39dd2.html",
     "dct:hasPart": [
@@ -4964,19 +5160,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/img[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -4991,8 +5175,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html",
-    "dct:source": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html",
+    "@id": "https://act-rules.github.io/testcases/3ea0c8/ba16145298c2ba046d37949d5950f7b7ade09633.html",
+    "dct:source": "https://act-rules.github.io/testcases/3ea0c8/ba16145298c2ba046d37949d5950f7b7ade09633.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -5003,7 +5187,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/3ea0c8/ba16145298c2ba046d37949d5950f7b7ade09633.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -5052,7 +5236,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div>This is my first element</div>"
+          "cnt:chars": "<!DOCTYPE html> <div id=\"my-elt\"></div>\n<iframe title=\"Empty frame\" srcdoc=\"<span id='my-elt'></span>\"></iframe>"
         }
       }
     ]
@@ -5068,11 +5252,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/div[1]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/3ea0c8/4184b8d1e232b1ce8c0c262dde2b4d2e9fd3d0c5.html"
+      "@id": "https://act-rules.github.io/testcases/3ea0c8/ba16145298c2ba046d37949d5950f7b7ade09633.html"
     }
   },
   {
@@ -5187,8 +5383,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html",
-    "dct:source": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html",
+    "@id": "https://act-rules.github.io/testcases/bf051a/a0e1c0cf69971fb9faf31a5a1180cf9124aa8db9.html",
+    "dct:source": "https://act-rules.github.io/testcases/bf051a/a0e1c0cf69971fb9faf31a5a1180cf9124aa8db9.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -5199,7 +5395,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/a0e1c0cf69971fb9faf31a5a1180cf9124aa8db9.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -5248,7 +5444,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"en-US-GB\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"em-US\"></html>"
         }
       }
     ]
@@ -5280,7 +5476,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html"
+      "@id": "https://act-rules.github.io/testcases/bf051a/a0e1c0cf69971fb9faf31a5a1180cf9124aa8db9.html"
     }
   },
   {
@@ -6176,7 +6372,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -6307,8 +6503,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html",
-    "dct:source": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html",
+    "@id": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html",
+    "dct:source": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -6319,7 +6515,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -6368,7 +6564,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <button aria-pressed=\"false\">My button</button>"
+          "cnt:chars": "<!DOCTYPE html> <div role=\"button\" aria-sort=\"\" style=\"display:none;\"></div>"
         }
       }
     ]
@@ -6384,23 +6580,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/button[1]/@aria-pressed"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html"
+      "@id": "https://act-rules.github.io/testcases/5c01ea/1351feb7b90c6ac6b92150a79b203414abd540bf.html"
     }
   },
   {
@@ -7011,6 +7195,98 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/c3ff853372ad20009acd217e0fa4f8709d3636bf.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/c3ff853372ad20009acd217e0fa4f8709d3636bf.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/c3ff853372ad20009acd217e0fa4f8709d3636bf.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\t@media (orientation: portrait) {\n\t\t\t\tbody {\n\t\t\t\t\ttransform: translateX(100px);\n\t\t\t\t}\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<main>\n\t\t\tPage Content\n\t\t</main>\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/c3ff853372ad20009acd217e0fa4f8709d3636bf.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/f13febf5cc9ab5395f0372313bc016fa19d30e5e.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/f13febf5cc9ab5395f0372313bc016fa19d30e5e.html",
     "dct:hasPart": [
@@ -7388,19 +7664,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/img[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -7623,8 +7887,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/bf051a/c3cd42d8981bc35c85ebbf951d59d01023e32736.html",
-    "dct:source": "https://act-rules.github.io/testcases/bf051a/c3cd42d8981bc35c85ebbf951d59d01023e32736.html",
+    "@id": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html",
+    "dct:source": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -7635,7 +7899,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/c3cd42d8981bc35c85ebbf951d59d01023e32736.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -7684,7 +7948,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"xyz\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en-US-GB\"></html>"
         }
       }
     ]
@@ -7700,7 +7964,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -7716,7 +7980,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/bf051a/c3cd42d8981bc35c85ebbf951d59d01023e32736.html"
+      "@id": "https://act-rules.github.io/testcases/bf051a/73848bd985bde636a3d21962036d1541cad24a9e.html"
     }
   },
   {
@@ -7727,8 +7991,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/c4886c9dee8d8967df6a8f8a73eec3fb769910cb.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/c4886c9dee8d8967df6a8f8a73eec3fb769910cb.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -7739,7 +8003,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/c4886c9dee8d8967df6a8f8a73eec3fb769910cb.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -7775,7 +8039,7 @@
             {
               "@type": "http:MessageHeader",
               "http:fieldName": "content-type",
-              "http:fieldValue": "image/svg+xml"
+              "http:fieldValue": "text/html; charset=utf-8"
             }
           ]
         },
@@ -7788,7 +8052,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<html>\n\t<body>\n\t\t<svg lang=\"en\"></svg>\n\t</body>\n</html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<iframe srcdoc=\"<html lang='en' xml:lang='en'></html>\" />\n</html>"
         }
       }
     ]
@@ -7808,7 +8072,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/c4886c9dee8d8967df6a8f8a73eec3fb769910cb.html"
     }
   },
   {
@@ -8431,8 +8695,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/3d89449e6dbbf63843471ad4d196dded6ebf17a1.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/3d89449e6dbbf63843471ad4d196dded6ebf17a1.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -8443,7 +8707,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/3d89449e6dbbf63843471ad4d196dded6ebf17a1.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -8492,7 +8756,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <iframe title=\" \" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
+          "cnt:chars": "<!DOCTYPE html> <iframe aria-label=\"Advertisement of tours to Great Wall of China\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
         }
       }
     ]
@@ -8508,7 +8772,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -8524,7 +8788,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/3d89449e6dbbf63843471ad4d196dded6ebf17a1.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html"
     }
   },
   {
@@ -8743,8 +9007,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html",
-    "dct:source": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html",
+    "@id": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html",
+    "dct:source": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -8755,7 +9019,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -8804,7 +9068,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div role=\"checkbox\" aria-checked=\"false\">My checkbox</div>"
+          "cnt:chars": "<!DOCTYPE html> <button aria-pressed=\"false\">My button</button>"
         }
       }
     ]
@@ -8832,11 +9096,11 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/div[1]/@aria-checked"
+        "ptr:expression": "/html[1]/body[1]/button[1]/@aria-pressed"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html"
+      "@id": "https://act-rules.github.io/testcases/5c01ea/797e195f77480efbf1817c09b9cea1dc42f79a4c.html"
     }
   },
   {
@@ -9437,6 +9701,110 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/7d6734/02eaadc12c2f6d5cc373a3c14617ce76ad641573.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/d9f524c9369fd6c6ed1bb899083dea2a1c42b497.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/d9f524c9369fd6c6ed1bb899083dea2a1c42b497.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/d9f524c9369fd6c6ed1bb899083dea2a1c42b497.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<link rel=\"stylesheet\" href=\"/test-assets/b33eff/style.css\" />\n\t</head>\n\t<body>\n\t\tPage Content\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:failed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/d9f524c9369fd6c6ed1bb899083dea2a1c42b497.html"
     }
   },
   {
@@ -10071,8 +10439,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/bf051a/f3825f1bfe1b8948477c142f289f3c03565ee3d4.html",
-    "dct:source": "https://act-rules.github.io/testcases/bf051a/f3825f1bfe1b8948477c142f289f3c03565ee3d4.html",
+    "@id": "https://act-rules.github.io/testcases/bf051a/e806126ba40cc2ee3da9d01afb217bded3b816bc.html",
+    "dct:source": "https://act-rules.github.io/testcases/bf051a/e806126ba40cc2ee3da9d01afb217bded3b816bc.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -10083,7 +10451,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/f3825f1bfe1b8948477c142f289f3c03565ee3d4.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/e806126ba40cc2ee3da9d01afb217bded3b816bc.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -10132,7 +10500,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"#!\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"#1\"></html>"
         }
       }
     ]
@@ -10164,7 +10532,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/bf051a/f3825f1bfe1b8948477c142f289f3c03565ee3d4.html"
+      "@id": "https://act-rules.github.io/testcases/bf051a/e806126ba40cc2ee3da9d01afb217bded3b816bc.html"
     }
   },
   {
@@ -10175,8 +10543,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg",
     "dct:hasPart": [
       {
         "@context": {
@@ -10187,7 +10555,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -10223,7 +10591,7 @@
             {
               "@type": "http:MessageHeader",
               "http:fieldName": "content-type",
-              "http:fieldValue": "text/html; charset=utf-8"
+              "http:fieldValue": "image/svg+xml"
             }
           ]
         },
@@ -10236,7 +10604,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\" xml:lang=\"en\"></html>"
+          "cnt:chars": "<html>\n\t<body>\n\t\t<svg lang=\"en\"></svg>\n\t</body>\n</html>"
         }
       }
     ]
@@ -10252,23 +10620,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/29dbe4d1cc0497bb95e19be6e6bd0c8a9ed42cc5.svg"
     }
   },
   {
@@ -10855,8 +11211,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -10867,7 +11223,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -10916,7 +11272,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <iframe aria-label=\"Advertisement of tours to Great Wall of China\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
+          "cnt:chars": "<!DOCTYPE html> <button>take me somewhere</button>"
         }
       }
     ]
@@ -10932,23 +11288,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/iframe[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/e143d6c174e5afc8254ca6976c2d8638bc57c658.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html"
     }
   },
   {
@@ -11036,7 +11380,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -11167,8 +11511,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html",
-    "dct:source": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html",
+    "@id": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html",
+    "dct:source": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -11179,7 +11523,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -11228,7 +11572,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div role=\"combobox\" aria-controls>My combobox</div>"
+          "cnt:chars": "<!DOCTYPE html> <div role=\"checkbox\" aria-checked=\"false\">My checkbox</div>"
         }
       }
     ]
@@ -11256,11 +11600,11 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/div[1]/@aria-controls"
+        "ptr:expression": "/html[1]/body[1]/div[1]/@aria-checked"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html"
+      "@id": "https://act-rules.github.io/testcases/5c01ea/418c85f3819d61b73d185b81f7c032d2b60a3b3c.html"
     }
   },
   {
@@ -11467,8 +11811,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html",
-    "dct:source": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html",
+    "@id": "https://act-rules.github.io/testcases/674b10/8dac1cf2f805dd7b689fe36cde9ffa86b621803a.html",
+    "dct:source": "https://act-rules.github.io/testcases/674b10/8dac1cf2f805dd7b689fe36cde9ffa86b621803a.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -11479,7 +11823,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/674b10/8dac1cf2f805dd7b689fe36cde9ffa86b621803a.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -11528,7 +11872,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div role>Some Content</div>"
+          "cnt:chars": "<!DOCTYPE html> <img role=\"img xyz\" src=\"/test-assets/shared/w3c-logo.png\" alt=\"W3C logo\" />"
         }
       }
     ]
@@ -11544,11 +11888,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/img[1]/@role"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html"
+      "@id": "https://act-rules.github.io/testcases/674b10/8dac1cf2f805dd7b689fe36cde9ffa86b621803a.html"
     }
   },
   {
@@ -11740,7 +12096,19 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/ul[1]/li[1]"
       }
     },
     "earl:subject": {
@@ -11837,6 +12205,98 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/7d6734/bf3fc26ba9d6b85063ab348d056fcdf62bc4dc66.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/854339b7645d255ae92a05ac4fbc6b06824e718c.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/854339b7645d255ae92a05ac4fbc6b06824e718c.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/854339b7645d255ae92a05ac4fbc6b06824e718c.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\thtml {\n\t\t\t\tfont-size: 22px;\n\t\t\t}\n\t\t\t@media (min-width: 30em) {\n\t\t\t\tfont-size: 100%;\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\tPage Content\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/854339b7645d255ae92a05ac4fbc6b06824e718c.html"
     }
   },
   {
@@ -12212,19 +12672,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/img[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -12423,8 +12871,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/bf051a/bfe0917b285b0c3b00e45fca809e075a753d7839.html",
-    "dct:source": "https://act-rules.github.io/testcases/bf051a/bfe0917b285b0c3b00e45fca809e075a753d7839.html",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -12435,7 +12883,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/bf051a/bfe0917b285b0c3b00e45fca809e075a753d7839.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -12484,111 +12932,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"123\"></html>"
-        }
-      }
-    ]
-  },
-  {
-    "@context": {
-      "earl": "http://www.w3.org/ns/earl#"
-    },
-    "@type": "earl:Assertion",
-    "earl:test": {
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r5.html"
-    },
-    "earl:result": {
-      "@type": "earl:TestResult",
-      "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/@lang"
-      }
-    },
-    "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/bf051a/bfe0917b285b0c3b00e45fca809e075a753d7839.html"
-    }
-  },
-  {
-    "@context": {
-      "earl": "http://www.w3.org/ns/earl#",
-      "dct": "http://purl.org/dc/terms/"
-    },
-    "@type": [
-      "earl:TestSubject"
-    ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/a0988c3ca48c9dd72da4c882e1a5d5d5d6d6b90d.html",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/a0988c3ca48c9dd72da4c882e1a5d5d5d6d6b90d.html",
-    "dct:hasPart": [
-      {
-        "@context": {
-          "http": "http://www.w3.org/2011/http#"
-        },
-        "@type": [
-          "http:Message",
-          "http:Request"
-        ],
-        "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/a0988c3ca48c9dd72da4c882e1a5d5d5d6d6b90d.html",
-        "http:headers": {
-          "@context": {
-            "http": "http://www.w3.org/2011/http#"
-          },
-          "@list": []
-        },
-        "http:body": {
-          "@context": {
-            "cnt": "http://www.w3.org/2011/content#"
-          },
-          "@type": [
-            "cnt:Content",
-            "cnt:ContentAsText"
-          ],
-          "cnt:characterEncoding": "utf-8",
-          "cnt:chars": ""
-        }
-      },
-      {
-        "@context": {
-          "http": "http://www.w3.org/2011/http#"
-        },
-        "@type": [
-          "http:Message",
-          "http:Response"
-        ],
-        "http:statusCodeValue": 200,
-        "http:headers": {
-          "@context": {
-            "http": "http://www.w3.org/2011/http#"
-          },
-          "@list": [
-            {
-              "@type": "http:MessageHeader",
-              "http:fieldName": "content-type",
-              "http:fieldValue": "text/html; charset=utf-8"
-            }
-          ]
-        },
-        "http:body": {
-          "@context": {
-            "cnt": "http://www.w3.org/2011/content#"
-          },
-          "@type": [
-            "cnt:Content",
-            "cnt:ContentAsText"
-          ],
-          "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\" \" xml:lang=\"\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\" xml:lang=\"en\"></html>"
         }
       }
     ]
@@ -12604,11 +12948,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/a0988c3ca48c9dd72da4c882e1a5d5d5d6d6b90d.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/d142ede8fa654921d3f3dde67124f9aa067262a7.html"
     }
   },
   {
@@ -13231,8 +13587,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -13243,7 +13599,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -13292,7 +13648,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <button>take me somewhere</button>"
+          "cnt:chars": "<!DOCTYPE html> <iframe title=\"List of Contributors\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
         }
       }
     ]
@@ -13308,11 +13664,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/iframe[1]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/b52cbe5f0131e309dcad4c4dd4116cbebd6a74b3.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html"
     }
   },
   {
@@ -13531,8 +13899,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html",
-    "dct:source": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html",
+    "@id": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html",
+    "dct:source": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -13543,7 +13911,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -13592,7 +13960,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div role=\"combobox\" aria-controls=\"id1\">My combobox</div>"
+          "cnt:chars": "<!DOCTYPE html> <div role=\"combobox\" aria-controls>My combobox</div>"
         }
       }
     ]
@@ -13624,7 +13992,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html"
+      "@id": "https://act-rules.github.io/testcases/5c01ea/5e87dbb6240d445c89f892f16fe98202e5b186c1.html"
     }
   },
   {
@@ -13843,8 +14211,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/674b10/d9797061b2ad6f60c25f90377b5e46c9e16f6d7b.html",
-    "dct:source": "https://act-rules.github.io/testcases/674b10/d9797061b2ad6f60c25f90377b5e46c9e16f6d7b.html",
+    "@id": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html",
+    "dct:source": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -13855,7 +14223,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/674b10/d9797061b2ad6f60c25f90377b5e46c9e16f6d7b.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -13904,7 +14272,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <img role=\"img xyz\" src=\"https://developer.mozilla.org/static/img/favicon144.png\" alt=\"MDN logo\" />"
+          "cnt:chars": "<!DOCTYPE html> <div role>Some Content</div>"
         }
       }
     ]
@@ -13920,23 +14288,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/img[1]/@role"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/674b10/d9797061b2ad6f60c25f90377b5e46c9e16f6d7b.html"
+      "@id": "https://act-rules.github.io/testcases/674b10/5f2fe96c4ca0e1778b07d3c05d14d9df3998ab40.html"
     }
   },
   {
@@ -14223,6 +14579,110 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/9aec958042a6a5f50d8ab1e0ea02a82144db776d.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/9aec958042a6a5f50d8ab1e0ea02a82144db776d.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/9aec958042a6a5f50d8ab1e0ea02a82144db776d.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\t@media (orientation: portrait) {\n\t\t\t\thtml {\n\t\t\t\t\ttransform: matrix(1, -1.22465e-15, 1.22465e-15, 1, 0, 0);\n\t\t\t\t}\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<main>\n\t\t\tPage Content\n\t\t</main>\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/9aec958042a6a5f50d8ab1e0ea02a82144db776d.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/31f334557a025bf43ca166fc34a28fdcfcae5aab.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/31f334557a025bf43ca166fc34a28fdcfcae5aab.html",
     "dct:hasPart": [
@@ -14327,8 +14787,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/ffd0e9/d5589a53ba351e6fbf80315d7a202dfa7d42c478.html",
-    "dct:source": "https://act-rules.github.io/testcases/ffd0e9/d5589a53ba351e6fbf80315d7a202dfa7d42c478.html",
+    "@id": "https://act-rules.github.io/testcases/ffd0e9/60b1321f0983c812f029e4fef6e20f6336cc52ad.html",
+    "dct:source": "https://act-rules.github.io/testcases/ffd0e9/60b1321f0983c812f029e4fef6e20f6336cc52ad.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -14339,7 +14799,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/ffd0e9/d5589a53ba351e6fbf80315d7a202dfa7d42c478.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/ffd0e9/60b1321f0983c812f029e4fef6e20f6336cc52ad.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -14388,7 +14848,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <h1 aria-label=\"\">ACT rules</h1>"
+          "cnt:chars": "<!DOCTYPE html> <span id=\"label\"></span>\n<h1 aria-labelledby=\"label\">ACT rules</h1>"
         }
       }
     ]
@@ -14404,7 +14864,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
       "earl:pointer": {
         "@context": {
@@ -14420,7 +14880,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/ffd0e9/d5589a53ba351e6fbf80315d7a202dfa7d42c478.html"
+      "@id": "https://act-rules.github.io/testcases/ffd0e9/60b1321f0983c812f029e4fef6e20f6336cc52ad.html"
     }
   },
   {
@@ -14847,8 +15307,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/a6dcaf4d1cea0415f98791051548131d3eee2f89.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/a6dcaf4d1cea0415f98791051548131d3eee2f89.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -14859,7 +15319,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/a6dcaf4d1cea0415f98791051548131d3eee2f89.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -14908,7 +15368,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"fr\" xml:lang=\"\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"em\" xml:lang=\"en\"></html>"
         }
       }
     ]
@@ -14928,7 +15388,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/a6dcaf4d1cea0415f98791051548131d3eee2f89.html"
     }
   },
   {
@@ -15551,8 +16011,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/43bafdd2cee24a29634383dcbda204221d1cd8b2.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/43bafdd2cee24a29634383dcbda204221d1cd8b2.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -15563,7 +16023,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/43bafdd2cee24a29634383dcbda204221d1cd8b2.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -15612,7 +16072,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <iframe title=\":-)\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
+          "cnt:chars": "<!DOCTYPE html> <iframe alt=\"List of Contributors\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
         }
       }
     ]
@@ -15628,7 +16088,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
       "earl:pointer": {
         "@context": {
@@ -15644,7 +16104,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/43bafdd2cee24a29634383dcbda204221d1cd8b2.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html"
     }
   },
   {
@@ -15851,8 +16311,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5c01ea/a730034d32a7c5780c917d037d084ad71f8a08f3.html",
-    "dct:source": "https://act-rules.github.io/testcases/5c01ea/a730034d32a7c5780c917d037d084ad71f8a08f3.html",
+    "@id": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html",
+    "dct:source": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -15863,7 +16323,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/a730034d32a7c5780c917d037d084ad71f8a08f3.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -15912,7 +16372,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div role=\"button\" aria-sort=\"\">Sort by year</div>"
+          "cnt:chars": "<!DOCTYPE html> <div role=\"combobox\" aria-controls=\"id1\">My combobox</div>"
         }
       }
     ]
@@ -15928,7 +16388,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -15940,11 +16400,11 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/div[1]/@aria-sort"
+        "ptr:expression": "/html[1]/body[1]/div[1]/@aria-controls"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5c01ea/a730034d32a7c5780c917d037d084ad71f8a08f3.html"
+      "@id": "https://act-rules.github.io/testcases/5c01ea/3a9462a56889b5bbf3a5ac07d892cfa35b1b579a.html"
     }
   },
   {
@@ -16579,6 +17039,110 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/96d0e52d66e50b6319586ec7cdea573cbb119dd7.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/96d0e52d66e50b6319586ec7cdea573cbb119dd7.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/96d0e52d66e50b6319586ec7cdea573cbb119dd7.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\t@media (orientation: landscape) {\n\t\t\t\tbody {\n\t\t\t\t\ttransform: matrix3d(0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);\n\t\t\t\t}\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\tPage Content\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:failed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/96d0e52d66e50b6319586ec7cdea573cbb119dd7.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/c5f798530233fd0eebd7cf6b5261b84dba732204.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/c5f798530233fd0eebd7cf6b5261b84dba732204.html",
     "dct:hasPart": [
@@ -17099,8 +17663,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/1a037dc5d07913a0442421089f4844ee44fcc07c.html",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/1a037dc5d07913a0442421089f4844ee44fcc07c.html",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/d0c97864c4b9c98a3b0bd4c45d7c5866625c572a.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/d0c97864c4b9c98a3b0bd4c45d7c5866625c572a.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -17111,7 +17675,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/1a037dc5d07913a0442421089f4844ee44fcc07c.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/d0c97864c4b9c98a3b0bd4c45d7c5866625c572a.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -17160,7 +17724,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"\" xml:lang=\"\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"fr-CA\" xml:lang=\"en-CA\"></html>"
         }
       }
     ]
@@ -17176,11 +17740,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/1a037dc5d07913a0442421089f4844ee44fcc07c.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/d0c97864c4b9c98a3b0bd4c45d7c5866625c572a.html"
     }
   },
   {
@@ -17268,7 +17844,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -17815,8 +18391,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -17827,7 +18403,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -17876,7 +18452,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <iframe title=\"List of Contributors\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
+          "cnt:chars": "<!DOCTYPE html> <iframe title=\"\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
         }
       }
     ]
@@ -17892,7 +18468,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
       "earl:pointer": {
         "@context": {
@@ -17908,7 +18484,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/12ee339a1783d5f6db7114d773239f8e04b531bf.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html"
     }
   },
   {
@@ -18739,6 +19315,98 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/0b666d5ff3fdd05eaa94a197ca5f52bbabaf4b23.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/0b666d5ff3fdd05eaa94a197ca5f52bbabaf4b23.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/0b666d5ff3fdd05eaa94a197ca5f52bbabaf4b23.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t</head>\n\t<body>\n\t\tI am a page with no styles\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/0b666d5ff3fdd05eaa94a197ca5f52bbabaf4b23.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/5279bbeb99fcae99b30471a30680db5fd5f9d676.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/5279bbeb99fcae99b30471a30680db5fd5f9d676.html",
     "dct:hasPart": [
@@ -19247,8 +19915,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -19259,7 +19927,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -19308,7 +19976,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"fr\" xml:lang=\"en\"></html>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"fr\" xml:lang=\"\"></html>"
         }
       }
     ]
@@ -19324,23 +19992,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/665108f327fc16f723810acad88adbac600e8cf5.html"
     }
   },
   {
@@ -19835,8 +20491,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/b70efcaf2f5e6a539e78a2cdc4b2e3a8b8adf827.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/b70efcaf2f5e6a539e78a2cdc4b2e3a8b8adf827.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -19847,7 +20503,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/b70efcaf2f5e6a539e78a2cdc4b2e3a8b8adf827.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -19896,7 +20552,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <iframe alt=\"List of Contributors\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
+          "cnt:chars": "<!DOCTYPE html> <iframe tabindex=\"-1\" role=\"presentation\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
         }
       }
     ]
@@ -19912,23 +20568,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/iframe[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/09e14194f92cc2ab83c134613d466226a83aeae8.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/b70efcaf2f5e6a539e78a2cdc4b2e3a8b8adf827.html"
     }
   },
   {
@@ -20759,6 +21403,110 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/b33eff/48e4105a06d6369dff468742ed14fb53478688d8.html",
+    "dct:source": "https://act-rules.github.io/testcases/b33eff/48e4105a06d6369dff468742ed14fb53478688d8.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/b33eff/48e4105a06d6369dff468742ed14fb53478688d8.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en\">\n\t<head>\n\t\t<title>Page with some content</title>\n\t\t<style>\n\t\t\t@media (orientation: portrait) {\n\t\t\t\thtml {\n\t\t\t\t\ttransform: rotateZ(1turn);\n\t\t\t\t}\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<main>\n\t\t\tPage Content\n\t\t</main>\n\t</body>\n</html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:passed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/b33eff/48e4105a06d6369dff468742ed14fb53478688d8.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/b4f0c3/a3e4172be1332a16e9856b83dc82a4db1c749394.html",
     "dct:source": "https://act-rules.github.io/testcases/b4f0c3/a3e4172be1332a16e9856b83dc82a4db1c749394.html",
     "dct:hasPart": [
@@ -21163,8 +21911,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/24fd835bb3314fafe0c822f640869bb93dae23d3.xhtml",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/24fd835bb3314fafe0c822f640869bb93dae23d3.xhtml",
     "dct:hasPart": [
       {
         "@context": {
@@ -21175,7 +21923,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/24fd835bb3314fafe0c822f640869bb93dae23d3.xhtml",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -21211,7 +21959,7 @@
             {
               "@type": "http:MessageHeader",
               "http:fieldName": "content-type",
-              "http:fieldValue": "text/html; charset=utf-8"
+              "http:fieldValue": "application/xhtml+xml"
             }
           ]
         },
@@ -21224,7 +21972,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <html lang=\"en-GB\" xml:lang=\"en-GB\"></html>"
+          "cnt:chars": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\"> <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\n<html lang=\"en\" xml:lang=\"en\"></html>"
         }
       }
     ]
@@ -21240,23 +21988,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/24fd835bb3314fafe0c822f640869bb93dae23d3.xhtml"
     }
   },
   {
@@ -21763,8 +22499,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html",
-    "dct:source": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html",
+    "@id": "https://act-rules.github.io/testcases/cae760/9ac428cbd668e462cac1b12b027747d8d54cd1c1.html",
+    "dct:source": "https://act-rules.github.io/testcases/cae760/9ac428cbd668e462cac1b12b027747d8d54cd1c1.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -21775,7 +22511,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/cae760/9ac428cbd668e462cac1b12b027747d8d54cd1c1.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -21824,7 +22560,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <iframe title=\"\" src=\"/test-assets/SC4-1-2-frame-doc.html\"> </iframe>"
+          "cnt:chars": "<!DOCTYPE html> <iframe title=\" \" src=\"/test-assets/SC4-1-2-frame-doc.html\" role=\"none\" tabindex=\"0\"> </iframe>"
         }
       }
     ]
@@ -21840,23 +22576,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/iframe[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/cae760/b5daca9f2e3baa8dd9426a4945a2f860cf892d91.html"
+      "@id": "https://act-rules.github.io/testcases/cae760/9ac428cbd668e462cac1b12b027747d8d54cd1c1.html"
     }
   },
   {
@@ -21944,7 +22668,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
       "earl:pointer": {
         "@context": {
@@ -23011,8 +23735,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml",
-    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml",
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -23023,7 +23747,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -23059,7 +23783,7 @@
             {
               "@type": "http:MessageHeader",
               "http:fieldName": "content-type",
-              "http:fieldValue": "application/xml"
+              "http:fieldValue": "text/html; charset=utf-8"
             }
           ]
         },
@@ -23072,7 +23796,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<math xml:lang=\"en\"></math>"
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"fr\" xml:lang=\"en\"></html>"
         }
       }
     ]
@@ -23088,11 +23812,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/6da071ec0a0d593e34312963e5bf39d15dbfcff6.html"
     }
   },
   {
@@ -24716,6 +25452,98 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/23a2a8/c245be6091a18b99684153c5dfe2ede07d62e49a.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <html lang=\"en-GB\" xml:lang=\"en-GB\"></html>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
         "@id": "earl:passed"
       },
       "earl:pointer": {
@@ -24728,11 +25556,11 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/img[1]"
+        "ptr:expression": "/html[1]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/23a2a8/c245be6091a18b99684153c5dfe2ede07d62e49a.html"
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/cde90a850f13c443f9551e962583df6fd829a5ad.html"
     }
   },
   {
@@ -26141,6 +26969,98 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/23a2a8/4aade3ec48caa9149df1a22bbeab11a46312d6ea.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml",
+    "dct:source": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "application/xml"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<math xml:lang=\"en\"></math>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/5b7ae0/02d1b673b395a741734d8516491be54f74d8a783.xml"
     }
   },
   {
@@ -28043,8 +28963,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
-    "dct:source": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
+    "@id": "https://act-rules.github.io/testcases/e086e5/1ee82af93bb5a923492eb7bdb75ae8311f8ce65a.html",
+    "dct:source": "https://act-rules.github.io/testcases/e086e5/1ee82af93bb5a923492eb7bdb75ae8311f8ce65a.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -28055,7 +28975,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/e086e5/1ee82af93bb5a923492eb7bdb75ae8311f8ce65a.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -28104,7 +29024,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <input role=\"presentation\" />"
+          "cnt:chars": "<!DOCTYPE html> <div id=\"country\"></div>\n<div aria-labelledby=\"country\" role=\"combobox\">England</div>"
         }
       }
     ]
@@ -28120,11 +29040,23 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/div[2]"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html"
+      "@id": "https://act-rules.github.io/testcases/e086e5/1ee82af93bb5a923492eb7bdb75ae8311f8ce65a.html"
     }
   },
   {
@@ -28851,8 +29783,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
-    "dct:source": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
+    "@id": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
+    "dct:source": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -28863,7 +29795,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -28912,7 +29844,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <select role=\"none\">\n\t<option value=\"volvo\">Volvo</option>\n\t<option value=\"saab\">Saab</option>\n\t<option value=\"opel\">Opel</option>\n</select>"
+          "cnt:chars": "<!DOCTYPE html> <input role=\"presentation\" />"
         }
       }
     ]
@@ -28932,7 +29864,7 @@
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html"
+      "@id": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html"
     }
   },
   {
@@ -29255,8 +30187,8 @@
     "@type": [
       "earl:TestSubject"
     ],
-    "@id": "https://act-rules.github.io/testcases/e086e5/257e40b91efb7b60874f02320fd0768f093fe1be.html",
-    "dct:source": "https://act-rules.github.io/testcases/e086e5/257e40b91efb7b60874f02320fd0768f093fe1be.html",
+    "@id": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
+    "dct:source": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
     "dct:hasPart": [
       {
         "@context": {
@@ -29267,7 +30199,7 @@
           "http:Request"
         ],
         "http:methodName": "GET",
-        "http:requestURI": "https://act-rules.github.io/testcases/e086e5/257e40b91efb7b60874f02320fd0768f093fe1be.html",
+        "http:requestURI": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
         "http:headers": {
           "@context": {
             "http": "http://www.w3.org/2011/http#"
@@ -29316,7 +30248,7 @@
             "cnt:ContentAsText"
           ],
           "cnt:characterEncoding": "utf-8",
-          "cnt:chars": "<!DOCTYPE html> <div aria-labelledby=\"non-existing\" role=\"combobox\">England</div>"
+          "cnt:chars": "<!DOCTYPE html> <select role=\"none\">\n\t<option value=\"volvo\">Volvo</option>\n\t<option value=\"saab\">Saab</option>\n\t<option value=\"opel\">Opel</option>\n</select>"
         }
       }
     ]
@@ -29332,23 +30264,11 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/div[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
-      "@id": "https://act-rules.github.io/testcases/e086e5/257e40b91efb7b60874f02320fd0768f093fe1be.html"
+      "@id": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html"
     }
   },
   {

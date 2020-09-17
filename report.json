@@ -2454,7 +2454,7 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[3]/td[2]/@headers"
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/th[1]/@headers"
       }
     },
     "earl:subject": {
@@ -2549,7 +2549,20 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:info": "The header cell is not assigned to any data cell",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/th[1]"
       }
     },
     "earl:subject": {
@@ -8635,9 +8648,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The `<svg>` element does not have an accessible name",
+      "earl:info": "The `<svg>` element has an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -11732,9 +11745,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The element is not owned by an element of its required context role",
+      "earl:info": "The element is owned by an element of its required context role",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -14246,9 +14259,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The element has all required states and properties",
+      "earl:info": "The element does not have all required states and properties",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -17330,9 +17343,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The element has all required states and properties",
+      "earl:info": "The element does not have all required states and properties",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -18060,7 +18073,20 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:info": "The element is not owned by an element of its required context role",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/section[1]/div[1]/p[1]"
       }
     },
     "earl:subject": {
@@ -18669,20 +18695,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:info": "The `<object>` element does not have an accessible name",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/object[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -18777,9 +18790,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The heading does not have an accessible name",
+      "earl:info": "The heading has an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -20237,9 +20250,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The button has an accessible name",
+      "earl:info": "The button does not have an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -21088,9 +21101,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The `<input type=\"button\">` element has an accessible name",
+      "earl:info": "The `<input type=\"button\">` element does not have an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -23330,9 +23343,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The button has an accessible name",
+      "earl:info": "The button does not have an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -23749,9 +23762,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The attribute is allowed for the element on which it is specified",
+      "earl:info": "The attribute is not allowed for the element on which it is specified",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -24276,9 +24289,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The `<svg>` element does not have an accessible name",
+      "earl:info": "The `<svg>` element has an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -24790,20 +24803,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:info": "The `<object>` element has an accessible name",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/object[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -29105,9 +29105,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The attribute is allowed for the element on which it is specified",
+      "earl:info": "The attribute is not allowed for the element on which it is specified",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -29118,7 +29118,7 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/aside[1]/@aria-label"
+        "ptr:expression": "/html[1]/body[1]/aside[1]/@aria-expanded"
       }
     },
     "earl:subject": {
@@ -29645,7 +29645,20 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:info": "The `headers` attribute refers to cells in the same `<table>`\nThe `headers` attribute does not refer to the cell defining it",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[1]/@headers"
       }
     },
     "earl:subject": {
@@ -30025,9 +30038,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The heading does not have an accessible name",
+      "earl:info": "The heading has an accessible name",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -34159,20 +34172,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:info": "The `<object>` element has an accessible name",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/object[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -35891,20 +35891,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:info": "The `<object>` element does not have an accessible name",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/object[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -38297,9 +38284,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The element is not owned by an element of its required context role",
+      "earl:info": "The element is owned by an element of its required context role",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"

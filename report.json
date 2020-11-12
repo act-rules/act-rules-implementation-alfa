@@ -3199,6 +3199,101 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/a4cd21db636880a4f6f074307bf8307a07edf51e.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/a4cd21db636880a4f6f074307bf8307a07edf51e.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/a4cd21db636880a4f6f074307bf8307a07edf51e.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <link rel=\"stylesheet\" href=\"/test-assets/focus-visible-oj04fd/styles.css\" />\n\n<a class=\"no-focus-default\" href=\"https://act-rules.github.io/\">ACT rules</a>\n<button class=\"no-focus-default\">Dummy button</button>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:cantTell"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/a4cd21db636880a4f6f074307bf8307a07edf51e.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/bc4a75/ef27395e1e55b507c690d3c15584f3e24b0758b3.html",
     "dct:source": "https://act-rules.github.io/testcases/bc4a75/ef27395e1e55b507c690d3c15584f3e24b0758b3.html",
     "dct:hasPart": [
@@ -6990,6 +7085,101 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/ffd0e9/02156af5ed0fd0b6ffb49e8ff87649cd199ad9bc.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/76a1528006c193ee0fab9ea6ad41bde8c424189f.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/76a1528006c193ee0fab9ea6ad41bde8c424189f.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/76a1528006c193ee0fab9ea6ad41bde8c424189f.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <link rel=\"stylesheet\" href=\"/test-assets/focus-visible-oj04fd/styles.css\" />\n<script src=\"/test-assets/focus-visible-oj04fd/script.js\"></script>\n\n<span id=\"indicator-act\" class=\"indicator solid\"></span>\n<a\n\tid=\"act\"\n\tclass=\"no-focus-default\"\n\tonfocus=\"toggleActivation('indicator-act'); toggleActivation('indicator-wcag')\"\n\tonblur=\"toggleActivation('indicator-act'); toggleActivation('indicator-wcag')\"\n\thref=\"https://act-rules.github.io/\"\n\t>ACT rules</a\n>\n<span id=\"indicator-wcag\" class=\"indicator solid\"></span>\n<a\n\tid=\"wcag\"\n\tclass=\"no-focus-default\"\n\tonfocus=\"toggleActivation('indicator-wcag'); toggleActivation('indicator-w3c')\"\n\tonblur=\"toggleActivation('indicator-wcag'); toggleActivation('indicator-w3c')\"\n\thref=\"https://www.w3.org/TR/WCAG21/\"\n\t>WCAG</a\n>\n<span id=\"indicator-w3c\" class=\"indicator solid\"></span>\n<a\n\tid=\"w3c\"\n\tclass=\"no-focus-default\"\n\tonfocus=\"toggleActivation('indicator-w3c'); toggleActivation('indicator-final')\"\n\tonblur=\"toggleActivation('indicator-w3c'); toggleActivation('indicator-final')\"\n\thref=\"https://www.w3.org/\"\n\t>WCAG</a\n>\n<span id=\"indicator-final\" class=\"indicator solid\"></span>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:cantTell"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/76a1528006c193ee0fab9ea6ad41bde8c424189f.html"
     }
   },
   {
@@ -10814,6 +11004,114 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/8784917764b66a645bc38a751805a2aac2201e21.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/8784917764b66a645bc38a751805a2aac2201e21.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/8784917764b66a645bc38a751805a2aac2201e21.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <link rel=\"stylesheet\" href=\"/test-assets/focus-visible-oj04fd/styles.css\" />\n<script src=\"/test-assets/focus-visible-oj04fd/script.js\"></script>\n\n<span id=\"indicator\" class=\"border\">\n\t<a\n\t\tid=\"act\"\n\t\tclass=\"no-focus-default\"\n\t\tonfocus=\"toggleActivation('indicator')\"\n\t\tonblur=\"toggleActivation('indicator')\"\n\t\thref=\"https://act-rules.github.io/\"\n\t\t>ACT rules</a\n\t>\n</span>\n<button>Dummy button</button>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:passed"
+      },
+      "earl:info": "The element has a visible focus indicator",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/button[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/8784917764b66a645bc38a751805a2aac2201e21.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/bc4a75/b53db66e471e734e9f494c6028fa6c8312b4e9e9.html",
     "dct:source": "https://act-rules.github.io/testcases/bc4a75/b53db66e471e734e9f494c6028fa6c8312b4e9e9.html",
     "dct:hasPart": [
@@ -14618,6 +14916,114 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/ffd0e9/40cdb61e90c0625bbdb387c69146aae445c09260.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/1b7a2ed4290e55f4130c1dc715c4123dff398871.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/1b7a2ed4290e55f4130c1dc715c4123dff398871.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/1b7a2ed4290e55f4130c1dc715c4123dff398871.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <a href=\"https://act-rules.github.io/\">ACT rules</a> <button>Dummy button</button>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:passed"
+      },
+      "earl:info": "The element has a visible focus indicator",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/a[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/1b7a2ed4290e55f4130c1dc715c4123dff398871.html"
     }
   },
   {
@@ -18442,6 +18848,101 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/af1ec85ed52818990bc95f50677336f575d05ce1.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/af1ec85ed52818990bc95f50677336f575d05ce1.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/af1ec85ed52818990bc95f50677336f575d05ce1.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <a tabindex=\"-1\" href=\"https://act-rules.github.io/\">ACT rules</a>\n<a tabindex=\"-1\" href=\"https://www.w3.org/TR/WCAG21/\">WCAG</a>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/af1ec85ed52818990bc95f50677336f575d05ce1.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/bc4a75/f856c5c937245a233973c5d5aea15995355226d9.html",
     "dct:source": "https://act-rules.github.io/testcases/bc4a75/f856c5c937245a233973c5d5aea15995355226d9.html",
     "dct:hasPart": [
@@ -22190,6 +22691,101 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/ffd0e9/041d65851b805be727ad2b0cda9044fc9c886687.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/1a1e6674b96c4cbdedc55801679fe0c06c248fac.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/1a1e6674b96c4cbdedc55801679fe0c06c248fac.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/1a1e6674b96c4cbdedc55801679fe0c06c248fac.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <a href=\"https://act-rules.github.io/\">ACT rules</a>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/1a1e6674b96c4cbdedc55801679fe0c06c248fac.html"
     }
   },
   {
@@ -25984,6 +26580,101 @@
     "@type": [
       "earl:TestSubject"
     ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/0a492595c81007ffe1ff2ca2a4a57fc24fe10635.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/0a492595c81007ffe1ff2ca2a4a57fc24fe10635.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/0a492595c81007ffe1ff2ca2a4a57fc24fe10635.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <a href=\"https://act-rules.github.io/\">ACT rules</a> <a tabindex=\"-1\" href=\"https://www.w3.org/TR/WCAG21/\">WCAG</a>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/0a492595c81007ffe1ff2ca2a4a57fc24fe10635.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
     "@id": "https://act-rules.github.io/testcases/bc4a75/14a9c0527cac9b6abdd9172f01158f57925c9b39.html",
     "dct:source": "https://act-rules.github.io/testcases/bc4a75/14a9c0527cac9b6abdd9172f01158f57925c9b39.html",
     "dct:hasPart": [
@@ -29079,7 +29770,7 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[1]/@headers"
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[2]/@headers"
       }
     },
     "earl:subject": {
@@ -29503,6 +30194,101 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/ffd0e9/0af782abf9e6314ec4bd46d60b140e6f94b818b2.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/b3fe5c5105b3553e06cbe80a2c95eef5914a2b0d.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/b3fe5c5105b3553e06cbe80a2c95eef5914a2b0d.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/b3fe5c5105b3553e06cbe80a2c95eef5914a2b0d.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <span>ACT rules</span>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:inapplicable"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/b3fe5c5105b3553e06cbe80a2c95eef5914a2b0d.html"
     }
   },
   {
@@ -32777,6 +33563,114 @@
     },
     "earl:subject": {
       "@id": "https://act-rules.github.io/testcases/ffd0e9/cf2817803717c986d3c8dc9873acd47b26c1d038.html"
+    }
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#",
+      "dct": "http://purl.org/dc/terms/"
+    },
+    "@type": [
+      "earl:TestSubject"
+    ],
+    "@id": "https://act-rules.github.io/testcases/oj04fd/e64f0e222ab0002455b45f08a887c3226a7b4d71.html",
+    "dct:source": "https://act-rules.github.io/testcases/oj04fd/e64f0e222ab0002455b45f08a887c3226a7b4d71.html",
+    "dct:hasPart": [
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Request"
+        ],
+        "http:methodName": "GET",
+        "http:requestURI": "https://act-rules.github.io/testcases/oj04fd/e64f0e222ab0002455b45f08a887c3226a7b4d71.html",
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": []
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": ""
+        }
+      },
+      {
+        "@context": {
+          "http": "http://www.w3.org/2011/http#"
+        },
+        "@type": [
+          "http:Message",
+          "http:Response"
+        ],
+        "http:statusCodeValue": 200,
+        "http:headers": {
+          "@context": {
+            "http": "http://www.w3.org/2011/http#"
+          },
+          "@list": [
+            {
+              "@context": {
+                "http": "http://www.w3.org/2011/http#"
+              },
+              "@type": "http:MessageHeader",
+              "http:fieldName": "content-type",
+              "http:fieldValue": "text/html; charset=utf-8"
+            }
+          ]
+        },
+        "http:body": {
+          "@context": {
+            "cnt": "http://www.w3.org/2011/content#"
+          },
+          "@type": [
+            "cnt:Content",
+            "cnt:ContentAsText"
+          ],
+          "cnt:characterEncoding": "utf-8",
+          "cnt:chars": "<!DOCTYPE html> <span tabindex=\"0\">Act rules</span> <button>Dummy button</button>"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "earl": "http://www.w3.org/ns/earl#"
+    },
+    "@type": "earl:Assertion",
+    "earl:test": {
+      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html"
+    },
+    "earl:result": {
+      "@type": "earl:TestResult",
+      "earl:outcome": {
+        "@id": "earl:passed"
+      },
+      "earl:info": "The element has a visible focus indicator",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/span[1]"
+      }
+    },
+    "earl:subject": {
+      "@id": "https://act-rules.github.io/testcases/oj04fd/e64f0e222ab0002455b45f08a887c3226a7b4d71.html"
     }
   },
   {

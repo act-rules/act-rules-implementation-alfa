@@ -8799,20 +8799,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:info": "The `autocomplete` attribute has a valid value",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/label[1]/input[1]/@autocomplete"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -9421,20 +9408,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:info": "The element has all required states and properties",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/div[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -29770,7 +29744,7 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[2]/@headers"
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[1]/@headers"
       }
     },
     "earl:subject": {
@@ -36599,20 +36573,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
-      },
-      "earl:info": "The `headers` attribute refers to cells in the same `<table>`\nThe `headers` attribute does not refer to the cell defining it",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[1]/@headers"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -39398,7 +39359,7 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/th[2]/@headers"
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[2]/th[1]/@headers"
       }
     },
     "earl:subject": {

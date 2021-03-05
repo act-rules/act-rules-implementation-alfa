@@ -4958,20 +4958,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:info": "The text is clipped",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/div[1]/text()[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -26119,9 +26106,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The element does not have all required states and properties",
+      "earl:info": "The element has all required states and properties",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -31936,9 +31923,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The element does not have all required states and properties",
+      "earl:info": "The element has all required states and properties",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -34684,9 +34671,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:passed"
+        "@id": "earl:failed"
       },
-      "earl:info": "The text is wrapped without being clipped",
+      "earl:info": "The text is clipped",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -40628,20 +40615,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:info": "The text is clipped",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/div[1]/text()[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -64702,20 +64676,7 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
-      },
-      "earl:info": "The text is clipped",
-      "earl:pointer": {
-        "@context": {
-          "ptr": "http://www.w3.org/2009/pointers#"
-        },
-        "@type": [
-          "ptr:Pointer",
-          "ptr:SinglePointer",
-          "ptr:ExpressionPointer",
-          "ptr:XPathPointer"
-        ],
-        "ptr:expression": "/html[1]/body[1]/div[1]/div[1]/text()[1]"
+        "@id": "earl:inapplicable"
       }
     },
     "earl:subject": {
@@ -67212,7 +67173,7 @@
           "ptr:ExpressionPointer",
           "ptr:XPathPointer"
         ],
-        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/@headers"
+        "ptr:expression": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/@headers"
       }
     },
     "earl:subject": {

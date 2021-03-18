@@ -90,7 +90,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -249,7 +249,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -395,7 +395,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -541,7 +541,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -687,7 +687,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r5.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r5",
       "dct:isPartOf": {
         "@set": [
           {
@@ -833,7 +833,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -953,7 +953,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1086,7 +1086,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1219,7 +1219,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1391,7 +1391,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1524,7 +1524,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1683,7 +1683,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1803,7 +1803,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -1936,7 +1936,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -2069,7 +2069,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -2189,7 +2189,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -2322,7 +2322,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -2455,7 +2455,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -2575,7 +2575,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -2694,7 +2694,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -2813,7 +2813,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -2959,7 +2959,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3131,7 +3131,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3290,7 +3290,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3410,7 +3410,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3530,7 +3530,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3650,7 +3650,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3796,7 +3796,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -3942,7 +3942,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4075,7 +4075,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4208,7 +4208,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4367,7 +4367,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4499,7 +4499,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4632,7 +4632,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4765,7 +4765,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -4936,7 +4936,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5056,7 +5056,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5215,7 +5215,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -5334,7 +5334,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5480,7 +5480,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5613,7 +5613,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5746,7 +5746,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5879,7 +5879,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -5999,7 +5999,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6158,7 +6158,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6304,7 +6304,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6450,7 +6450,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6596,7 +6596,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r5.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r5",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6729,7 +6729,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6849,7 +6849,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -6995,7 +6995,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -7128,7 +7128,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -7300,7 +7300,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -7433,7 +7433,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -7605,7 +7605,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -7725,7 +7725,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -7858,7 +7858,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -8004,7 +8004,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -8162,7 +8162,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -8308,7 +8308,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -8454,7 +8454,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -8587,7 +8587,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -8706,7 +8706,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -8825,7 +8825,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -8971,7 +8971,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9130,7 +9130,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9288,7 +9288,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9421,7 +9421,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9554,7 +9554,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9674,7 +9674,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9807,7 +9807,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -9940,7 +9940,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10086,7 +10086,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10219,7 +10219,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10365,7 +10365,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10497,7 +10497,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10617,7 +10617,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10763,7 +10763,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -10934,7 +10934,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11054,7 +11054,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11200,7 +11200,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -11319,7 +11319,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11452,7 +11452,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11585,7 +11585,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11718,7 +11718,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11851,7 +11851,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -11984,7 +11984,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12143,7 +12143,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12289,7 +12289,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12422,7 +12422,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12568,7 +12568,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r5.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r5",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12714,7 +12714,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12847,7 +12847,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -12993,7 +12993,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -13126,7 +13126,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -13298,7 +13298,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -13418,7 +13418,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -13590,7 +13590,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -13723,7 +13723,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -13856,7 +13856,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -14002,7 +14002,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -14122,7 +14122,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -14255,7 +14255,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -14401,7 +14401,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -14534,7 +14534,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -14653,7 +14653,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -14772,7 +14772,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -14918,7 +14918,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15077,7 +15077,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15235,7 +15235,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15355,7 +15355,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15488,7 +15488,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15608,7 +15608,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15754,7 +15754,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -15900,7 +15900,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16046,7 +16046,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16179,7 +16179,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16338,7 +16338,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16471,7 +16471,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16591,7 +16591,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16737,7 +16737,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -16908,7 +16908,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17028,7 +17028,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17174,7 +17174,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -17293,7 +17293,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17439,7 +17439,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17572,7 +17572,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17705,7 +17705,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17838,7 +17838,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -17971,7 +17971,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18130,7 +18130,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18289,7 +18289,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18435,7 +18435,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18581,7 +18581,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r5.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r5",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18727,7 +18727,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18847,7 +18847,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -18993,7 +18993,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -19126,7 +19126,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -19311,7 +19311,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -19444,7 +19444,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -19616,7 +19616,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -19749,7 +19749,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -19882,7 +19882,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -20015,7 +20015,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -20135,7 +20135,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -20281,7 +20281,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -20427,7 +20427,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -20560,7 +20560,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -20679,7 +20679,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -20785,7 +20785,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -20944,7 +20944,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21103,7 +21103,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21261,7 +21261,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21394,7 +21394,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21527,7 +21527,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21647,7 +21647,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21793,7 +21793,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -21926,7 +21926,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22072,7 +22072,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22205,7 +22205,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22364,7 +22364,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22497,7 +22497,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22630,7 +22630,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22776,7 +22776,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -22909,7 +22909,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23042,7 +23042,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23188,7 +23188,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -23294,7 +23294,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23440,7 +23440,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23573,7 +23573,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23693,7 +23693,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23826,7 +23826,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -23946,7 +23946,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24105,7 +24105,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24251,7 +24251,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24397,7 +24397,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24543,7 +24543,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r5.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r5",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24689,7 +24689,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24809,7 +24809,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -24955,7 +24955,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25088,7 +25088,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25260,7 +25260,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25380,7 +25380,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25552,7 +25552,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25685,7 +25685,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25805,7 +25805,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -25951,7 +25951,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -26071,7 +26071,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -26217,7 +26217,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -26363,7 +26363,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -26483,7 +26483,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -26602,7 +26602,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -26721,7 +26721,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -26867,7 +26867,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27039,7 +27039,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27159,7 +27159,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27292,7 +27292,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27425,7 +27425,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27558,7 +27558,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27704,7 +27704,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27837,7 +27837,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -27983,7 +27983,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28103,7 +28103,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28249,7 +28249,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28369,7 +28369,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28502,7 +28502,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28648,7 +28648,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28820,7 +28820,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -28940,7 +28940,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -29086,7 +29086,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -29205,7 +29205,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -29351,7 +29351,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -29484,7 +29484,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -29617,7 +29617,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -29750,7 +29750,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -29883,7 +29883,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30029,7 +30029,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30175,7 +30175,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30308,7 +30308,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30441,7 +30441,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30574,7 +30574,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30720,7 +30720,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -30853,7 +30853,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31038,7 +31038,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31158,7 +31158,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31317,7 +31317,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31450,7 +31450,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31583,7 +31583,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31729,7 +31729,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -31888,7 +31888,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -32034,7 +32034,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -32180,7 +32180,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -32313,7 +32313,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -32432,7 +32432,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -32551,7 +32551,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -32710,7 +32710,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -32869,7 +32869,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33027,7 +33027,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33160,7 +33160,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33280,7 +33280,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33413,7 +33413,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33546,7 +33546,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33679,7 +33679,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33825,7 +33825,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -33958,7 +33958,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34117,7 +34117,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34237,7 +34237,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34370,7 +34370,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34516,7 +34516,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34649,7 +34649,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34782,7 +34782,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -34941,7 +34941,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -35060,7 +35060,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -35206,7 +35206,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -35326,7 +35326,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -35459,7 +35459,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -35592,7 +35592,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -35725,7 +35725,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -35884,7 +35884,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36043,7 +36043,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36189,7 +36189,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r4.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r4",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36335,7 +36335,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36455,7 +36455,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36601,7 +36601,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36734,7 +36734,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -36919,7 +36919,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37052,7 +37052,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37224,7 +37224,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37357,7 +37357,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37490,7 +37490,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37636,7 +37636,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37794,7 +37794,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -37940,7 +37940,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -38073,7 +38073,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -38206,7 +38206,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -38325,7 +38325,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r20.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r20",
       "dct:isPartOf": {
         "@set": []
       }
@@ -38444,7 +38444,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -38603,7 +38603,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -38775,7 +38775,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -38933,7 +38933,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39066,7 +39066,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39186,7 +39186,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39319,7 +39319,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39465,7 +39465,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39611,7 +39611,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39757,7 +39757,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -39877,7 +39877,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40036,7 +40036,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40156,7 +40156,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40276,7 +40276,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40422,7 +40422,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40593,7 +40593,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40713,7 +40713,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -40872,7 +40872,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -40991,7 +40991,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r90.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r90",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41137,7 +41137,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41257,7 +41257,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41390,7 +41390,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41523,7 +41523,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41656,7 +41656,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41815,7 +41815,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -41961,7 +41961,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42107,7 +42107,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42240,7 +42240,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42386,7 +42386,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42519,7 +42519,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42691,7 +42691,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42811,7 +42811,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -42970,7 +42970,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43103,7 +43103,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43236,7 +43236,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43382,7 +43382,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43540,7 +43540,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r16.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r16",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43686,7 +43686,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43819,7 +43819,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -43952,7 +43952,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -44071,7 +44071,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -44217,7 +44217,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -44389,7 +44389,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -44509,7 +44509,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -44642,7 +44642,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -44775,7 +44775,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -44908,7 +44908,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45041,7 +45041,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45174,7 +45174,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45320,7 +45320,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45453,7 +45453,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45612,7 +45612,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45732,7 +45732,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -45865,7 +45865,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46010,7 +46010,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46181,7 +46181,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46301,7 +46301,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46460,7 +46460,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -46579,7 +46579,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46712,7 +46712,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46845,7 +46845,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -46978,7 +46978,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r94.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r94",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47111,7 +47111,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47270,7 +47270,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47429,7 +47429,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47562,7 +47562,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47682,7 +47682,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47815,7 +47815,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -47935,7 +47935,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48107,7 +48107,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48240,7 +48240,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48412,7 +48412,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48545,7 +48545,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48665,7 +48665,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48798,7 +48798,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -48957,7 +48957,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -49103,7 +49103,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -49236,7 +49236,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -49342,7 +49342,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -49488,7 +49488,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -49660,7 +49660,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -49819,7 +49819,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -49952,7 +49952,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50085,7 +50085,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50205,7 +50205,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50351,7 +50351,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50484,7 +50484,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50630,7 +50630,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50750,7 +50750,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -50909,7 +50909,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r65.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r65",
       "dct:isPartOf": {
         "@set": [
           {
@@ -51042,7 +51042,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -51175,7 +51175,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -51321,7 +51321,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -51492,7 +51492,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -51612,7 +51612,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -51771,7 +51771,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -51890,7 +51890,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52010,7 +52010,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52143,7 +52143,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52276,7 +52276,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52435,7 +52435,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52594,7 +52594,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r3.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r3",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52740,7 +52740,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -52860,7 +52860,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53006,7 +53006,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53126,7 +53126,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53311,7 +53311,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53444,7 +53444,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53603,7 +53603,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53723,7 +53723,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r13.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r13",
       "dct:isPartOf": {
         "@set": [
           {
@@ -53856,7 +53856,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -54002,7 +54002,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -54160,7 +54160,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -54306,7 +54306,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -54439,7 +54439,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -54558,7 +54558,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r21.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r21",
       "dct:isPartOf": {
         "@set": [
           {
@@ -54704,7 +54704,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -54876,7 +54876,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55034,7 +55034,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55167,7 +55167,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r43.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r43",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55300,7 +55300,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r44.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r44",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55433,7 +55433,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55566,7 +55566,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55712,7 +55712,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55845,7 +55845,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -55965,7 +55965,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -56124,7 +56124,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -56257,7 +56257,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -56402,7 +56402,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -56535,7 +56535,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -56655,7 +56655,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r84.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r84",
       "dct:isPartOf": {
         "@set": [
           {
@@ -56814,7 +56814,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r86.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r86",
       "dct:isPartOf": {
         "@set": []
       }
@@ -56933,7 +56933,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57066,7 +57066,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57199,7 +57199,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57332,7 +57332,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r1.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r1",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57491,7 +57491,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57637,7 +57637,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57770,7 +57770,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r7.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r7",
       "dct:isPartOf": {
         "@set": [
           {
@@ -57916,7 +57916,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58049,7 +58049,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58221,7 +58221,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58354,7 +58354,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58526,7 +58526,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58659,7 +58659,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58792,7 +58792,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -58950,7 +58950,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -59096,7 +59096,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -59229,7 +59229,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -59348,7 +59348,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -59520,7 +59520,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -59640,7 +59640,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -59773,7 +59773,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -59919,7 +59919,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60065,7 +60065,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r47.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r47",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60211,7 +60211,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60331,7 +60331,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60490,7 +60490,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60623,7 +60623,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60769,7 +60769,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -60940,7 +60940,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61073,7 +61073,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61206,7 +61206,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61326,7 +61326,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61459,7 +61459,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61618,7 +61618,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61751,7 +61751,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -61884,7 +61884,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62069,7 +62069,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62189,7 +62189,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62361,7 +62361,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62494,7 +62494,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62640,7 +62640,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62798,7 +62798,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -62944,7 +62944,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -63077,7 +63077,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -63196,7 +63196,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r28.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r28",
       "dct:isPartOf": {
         "@set": [
           {
@@ -63355,7 +63355,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -63513,7 +63513,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -63633,7 +63633,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -63779,7 +63779,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -63925,7 +63925,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64058,7 +64058,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64217,7 +64217,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64350,7 +64350,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64483,7 +64483,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64654,7 +64654,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r83.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r83",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64774,7 +64774,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -64907,7 +64907,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65040,7 +65040,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65173,7 +65173,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65332,7 +65332,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r6.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r6",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65452,7 +65452,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65572,7 +65572,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65744,7 +65744,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -65877,7 +65877,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66049,7 +66049,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66169,7 +66169,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.githu.io/sanshikan/rules/sia-r14.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r14",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66315,7 +66315,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66474,7 +66474,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66620,7 +66620,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r18.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r18",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66753,7 +66753,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -66872,7 +66872,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -66992,7 +66992,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67125,7 +67125,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67271,7 +67271,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67404,7 +67404,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67537,7 +67537,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67696,7 +67696,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67829,7 +67829,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -67975,7 +67975,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68108,7 +68108,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68241,7 +68241,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68374,7 +68374,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68494,7 +68494,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68640,7 +68640,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68773,7 +68773,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -68945,7 +68945,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -69078,7 +69078,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -69250,7 +69250,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -69383,7 +69383,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -69542,7 +69542,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r17.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r17",
       "dct:isPartOf": {
         "@set": [
           {
@@ -69688,7 +69688,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -69794,7 +69794,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -69953,7 +69953,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70086,7 +70086,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70232,7 +70232,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70378,7 +70378,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r63.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r63",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70511,7 +70511,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70670,7 +70670,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70790,7 +70790,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -70923,7 +70923,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71094,7 +71094,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71227,7 +71227,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71360,7 +71360,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71493,7 +71493,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71639,7 +71639,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r8.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r8",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71772,7 +71772,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r9.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r9",
       "dct:isPartOf": {
         "@set": [
           {
@@ -71944,7 +71944,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -72064,7 +72064,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -72236,7 +72236,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -72369,7 +72369,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -72489,7 +72489,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -72608,7 +72608,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -72766,7 +72766,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r42.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r42",
       "dct:isPartOf": {
         "@set": [
           {
@@ -72899,7 +72899,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73032,7 +73032,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73165,7 +73165,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r64.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r64",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73324,7 +73324,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73457,7 +73457,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73603,7 +73603,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73774,7 +73774,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -73907,7 +73907,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74040,7 +74040,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74173,7 +74173,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74332,7 +74332,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74465,7 +74465,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74637,7 +74637,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74757,7 +74757,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -74877,7 +74877,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -74996,7 +74996,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -75154,7 +75154,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r45.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r45",
       "dct:isPartOf": {
         "@set": [
           {
@@ -75300,7 +75300,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r46.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r46",
       "dct:isPartOf": {
         "@set": [
           {
@@ -75433,7 +75433,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -75566,7 +75566,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -75712,7 +75712,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -75883,7 +75883,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r91.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r91",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76016,7 +76016,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r92.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r92",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76136,7 +76136,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76269,7 +76269,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76428,7 +76428,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76548,7 +76548,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76720,7 +76720,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r12.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r12",
       "dct:isPartOf": {
         "@set": [
           {
@@ -76853,7 +76853,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -77011,7 +77011,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -77130,7 +77130,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -77288,7 +77288,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r68.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r68",
       "dct:isPartOf": {
         "@set": [
           {
@@ -77421,7 +77421,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -77567,7 +77567,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r81.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r81",
       "dct:isPartOf": {
         "@set": [
           {
@@ -77739,7 +77739,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -77872,7 +77872,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r2.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r2",
       "dct:isPartOf": {
         "@set": [
           {
@@ -78031,7 +78031,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -78164,7 +78164,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -78336,7 +78336,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -78495,7 +78495,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -78614,7 +78614,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -78734,7 +78734,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -78880,7 +78880,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79000,7 +79000,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79133,7 +79133,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79305,7 +79305,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79463,7 +79463,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -79569,7 +79569,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79727,7 +79727,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79860,7 +79860,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -79980,7 +79980,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -80113,7 +80113,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -80285,7 +80285,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -80443,7 +80443,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -80549,7 +80549,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -80707,7 +80707,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -80853,7 +80853,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r93.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r93",
       "dct:isPartOf": {
         "@set": [
           {
@@ -80986,7 +80986,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r10.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r10",
       "dct:isPartOf": {
         "@set": [
           {
@@ -81106,7 +81106,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -81278,7 +81278,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -81398,7 +81398,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -81517,7 +81517,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r41.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r41",
       "dct:isPartOf": {
         "@set": [
           {
@@ -81675,7 +81675,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -81808,7 +81808,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -81967,7 +81967,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -82087,7 +82087,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -82206,7 +82206,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -82352,7 +82352,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -82524,7 +82524,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r15.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r15",
       "dct:isPartOf": {
         "@set": [
           {
@@ -82644,7 +82644,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -82763,7 +82763,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -82896,7 +82896,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -83055,7 +83055,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r19.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r19",
       "dct:isPartOf": {
         "@set": []
       }
@@ -83174,7 +83174,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -83307,7 +83307,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -83479,7 +83479,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -83612,7 +83612,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove/github.io/sanshikan/rules/sia-r11.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r11",
       "dct:isPartOf": {
         "@set": [
           {
@@ -83784,7 +83784,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -83930,7 +83930,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {
@@ -84076,7 +84076,7 @@
         "earl:TestCriterion",
         "earl:TestCase"
       ],
-      "@id": "https://siteimprove.github.io/sanshikan/rules/sia-r69.html",
+      "@id": "https://alfa.siteimprove.com/rules/sia-r69",
       "dct:isPartOf": {
         "@set": [
           {

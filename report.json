@@ -27218,7 +27218,20 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:failed"
+      },
+      "earl:info": "The link does not have an accessible name",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/a[1]"
       }
     },
     "earl:subject": {
@@ -74698,9 +74711,9 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:failed"
+        "@id": "earl:passed"
       },
-      "earl:info": "The attribute is not allowed for the element on which it is specified",
+      "earl:info": "The attribute is allowed for the element on which it is specified",
       "earl:pointer": {
         "@context": {
           "ptr": "http://www.w3.org/2009/pointers#"
@@ -77671,7 +77684,20 @@
     "earl:result": {
       "@type": "earl:TestResult",
       "earl:outcome": {
-        "@id": "earl:inapplicable"
+        "@id": "earl:passed"
+      },
+      "earl:info": "The link has an accessible name",
+      "earl:pointer": {
+        "@context": {
+          "ptr": "http://www.w3.org/2009/pointers#"
+        },
+        "@type": [
+          "ptr:Pointer",
+          "ptr:SinglePointer",
+          "ptr:ExpressionPointer",
+          "ptr:XPathPointer"
+        ],
+        "ptr:expression": "/html[1]/body[1]/a[1]"
       }
     },
     "earl:subject": {
